@@ -1,0 +1,369 @@
+TCS Placement Paper September 2010:-
+
+Writen Test:-
+
+Q.1. How many four digit numbers can be formed using the digits 1, 2, 3, 4, 5 (but with repetition) that are divisible by 4?
+
+Can you help Alok find the answer?
+(a) 100
+(b) 125
+(c) 75
+(d) 85
+
+Ans. 5^n-1= 5^4-1=125, n= no of digits
+
+Q.2.On planet korba, a solar blast has melted the ice caps on its equator. 9 years after the ice melts, tiny planetoids called echina start growing on the rocks. Echina grows in the form of circle, and the relationship between the diameter of this circle and the age of echina is given by the formula d = 4* (t-9) for t = 9
+
+Where d represents the diameter in mm and t the number of years since the solar blast.
+
+Jagan recorded the radius of some echina at a particular spot as 12mm. How many years back did the solar blast occur?
+
+(a) 17
+(b) 21.25
+(c) 12
+(d) 12.06
+Ans. c
+
+Q.3.. Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1928 as Scuderia Ferrari , the company sponsored drivers and manufactured race cars before moving into production of street-legal vehicles in 1947 as Feraari S.P.A. Throughout its history, the company has been noted for its continued participation in racing, especially in Formula One where it has employed great success. Rohit once bought a Ferrari . It could go 4 times as fast as Mohan's old Mercedes. If the speed of Mohan's Mercedes is 46 km/hr and the distance traveled by the Ferrari is 953 km, find the total time taken for Rohit to drive that distance.
+
+(a) 20.72
+(b) 5.18
+(c) 238.25
+(d) 6.18
+
+Ans. b
+
+Q.4. A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. Statement n says 'At least n of the statements on this sheet are false.' Which statements are true and which are false?
+
+(a) The even numbered statements are true and the odd numbered are false.
+(b) The odd numbered statements are true and the even numbered are false.
+(c) The first 35 statements are true and the last 35 are false.
+(d) The first 35 statements are false and the last 35 are false.
+
+Ans. c
+Note: For this type of Questions, follow this:
+At least- Ist half are true, Last half are false
+Exactly- Last second one is true or (N-1)th Statement is true
+Almost- All are true.
+
+Q.5. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of one liter every hour in A, it gets filled up like 10, 20, 40, 80, 160 in tank B. (At the end of first hour, B has 10 liters, second hour it has 20, and so on). If tank B is 1/32 filled after 21 hours, what is the total duration required to fill it completely?
+
+(a) 26 hrs
+(b) 25 hrs
+(c) 5 hrs
+(d) 27 hrs
+Ans. a
+
+Q.6 There are two water tanks A and B, A is much smaller than B. While water fills at the rate of one liter every hour in A, it gets filled up like 10, 20, 40, 80, 160... in tank B. (At the end of first hour, B has 10 liters , second hour it has 20, and so on). If tank B is 1/16 filled after 4 hours, what is the total duration required to fill it completely?
+
+(a) 8hrs
+(b) 25 hrs
+(c) 5 hrs
+(d) 27 hrs
+Ans. a
+
+Q.7. Unnecessary data. A lady has fine gloves and hats in her closet- 18 blue- 32 red , 10 white , 25 yellow, 55 purple, 30 orange. The lights are out and it is totally dark inspite of the darkness. She can make out the difference between a hat and a glove. She takes out an item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure she has a pair of each color of blue, red, yellow?
+
+(a) 59
+(b) 8
+(c) 50
+(d) 42
+Ans. a(32+25+2)
+Note: For this type of questions:
+Bigger+Middle+1 (Suppose 18, 32, 25 =32+25+1), If you do not find answer in options, choose the one closer tho the answer you got.
+
+Q.8 The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 billion. As one of the forerunners in the technology front, Tirnop continues to lead the way in products and services in India. At Tirnop, all programmers are equal in every respect. They receive identical salaries and also write code at the same rate. Suppose 12 such programmers take 12 minutes to write 12 lines of code in total. How long will it take 72 programmers to write 72 lines of code in total?
+
+(a) 6
+(b) 18
+(c) 72
+(d) 12
+Ans. d
+Note: N1T1/W1=N2T2, W=No. of Lines, N=No. of PRGMRS, T=Time
+
+Q.9 The citizens of planet nigiet are 6 fingered and have thus developed their decimal system in base 6. A certain street in nigiet contains 1000 (in base 8) buildings numbered 1 to 1000. How many 3s are used in numbering these buildings?
+
+(a) 256
+(b) 54
+(c) 192
+(d) 108
+Ans. d
+Note: First find no. 3s in 1000 (Decimal only), Definately you will get 300, Now convert 300 into 300 base 6 by this 3*6^2+0*6^1+0*6^0
+
+
+Q.10. 12 people {a1, a2, …, a12} meet and shake hands in a circular fashion. In other words, there are totally 36 handshakes involving the pairs, {a1, a2}, {a2, a3}, …, {a11, a12}, {a12, a1}. Then size of the smallest set of people such that the rest have shaken hands with at least one person in the set is
+
+(a) 12
+(b) 4
+(c) 18
+(d) 11
+Ans. B (N/3)
+
+Q. 11. Alice and Bob play the following coins-on-a-stack game. 100 coins are stacked one above the other. One of them is a special (gold) coin and the rest are ordinary coins. The goal is to bring the gold coin to the top by repeatedly moving the topmost coin to another position in the stack.
+Alice starts and the players take turns. A turn consists of moving the coin on the top to a position i below the top coin (0 = i = 100). We will call this an i-move (thus a 0-move implies doing nothing). The proviso is that an i-move cannot be repeated; for example once a player makes a 2-move, on subsequent turns neither player can make a 2-move.
+If the gold coin happens to be on top when it’s a player’s turn then the player wins the game.
+
+A. Alice has no winning strategy.
+B. Initially, the gold coins the third coin from the top. Then
+C. In order to win, Alice’s first move should be a 0-move.
+D. In order to win, Alice’s first move should be a 1-move.
+
+Ans. D
+
+Q. 12. people meet and shake hands. The maximum number of handshakes possible if there is to be no “cycle” of handshakes is (A cycle of handshakes is a sequence of k people a1, a2, ……, ak (k > 2) such that the pairs {a1, a2}, {a2, a3}, ……, {ak-1, ak}, {ak, a1} shake hands).
+
+(a)7
+(b) 6
+(c) 9
+(d) 8
+Ans. c **(N-1)**
+
+Q. 13. After the typist writes 12 letters and addresses 12 envelopes, she inserts the letters randomly into the envelopes (1 letter per envelope). What is the probability that exactly 1 letter is inserted in an improper envelope?
+
+(a) 0
+(b) 12/212
+(c) 11/12
+(d) 1/12
+Ans. a
+
+Q. 14. 10 suspects are rounded by the police and questioned about a bank robbery. Only one of them is guilty. The suspects are made to stand in a line and each person declares that the person next to him on his right is guilty. The rightmost person is not questioned. Which of the following possibilities are true?
+
+A. All suspects are lying.
+B. leftmost suspect is innocent.
+C. leftmost suspect is guilty
+
+(a) A only
+(b) A or C
+(c) A or B
+(d) B only
+
+Ans. c
+
+Q. 15. Given 3 lines in the plane such that the points of intersection form a triangle with sides of length 20, 20 and 30, the number of points equidistant from all the 3 lines is
+
+(a) 4
+(b) 3
+(c) 0
+(d) 1
+
+Ans. a 3 lines are given so answer is 4 one incenter and 3 excenters. If it is 3 line segments then answer would be 1
+
+Q. 16. Alok and Bhanu play the following min-max game. Given the expression N = 15 + X*(Y – Z)
+
+Where X, Y and Z are variables representing single digits (0 to 9), Alok would like to maximize N while Bhanu would like to minimize it. Towards this end, Alok chooses a single digit number and Bhanu substitutes this for a variable of her choice (X, Y or Z). Alok then chooses the next value and Bhanu, the variable to substitute the value. Finally Alok proposes the value for the remaining variable. Assuming both play to their optimal strategies, the value of N at the end of the game would be
+
+Ans. 15+18 =33
+Note: For this type of questions:
+x+y-z=11
+x-y-z=2
+x*(y+z)=18
+
+Q. 17. A hare and a tortoise have a race along a circle of 100 yards diameter. The tortoise goes in one direction and the hare in the other. The hare starts after the tortoise has covered 1/5 of its distance and that too leisurely. The hare and tortoise meet when the hare has covered only 1/8 of the distance. By what factor should the hare increase its speed so as the win the race? (for this values are changed)
+
+(a) 8
+(b) 5
+(c) 37
+(d) 80
+
+Ans. c
+
+Q. 18. A sheet of paper has statements numbered from 1 to 45. For all values of n from 1 to 45, statement n says “At most n of the statements on this sheet are false”. Which statements are true and which are false?
+
+A. The odd numbered statements are true and the even numbered are false.
+B. The even numbered statements are true and the odd numbered are false.
+C. All statements are true.
+
+Ans. c
+
+Q. 56.  A hollow cube of size 5 cm is taken, with a thickness of 1 cm. It is made of smaller cubes of size 1 cm. If 1face of the outer surface of the cube are painted, totally how many faces of the smaller cubes remain unpainted?
+
+(a) 900
+(b) 488
+(c) 563
+(d) 800
+
+Ans. c
+
+Note: ** 588-(25* No. of painted faces)
+
+Q. 19  The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 billion. As one of the forerunners in the technology front, Tirnop continues to lead the way in products and services in India. At Tirnop, all programmers are equal in every respect. They receive identical salaries ans also write code at the same rate. Suppose 12 such programmers take 12 minutes to write 12 lines of code in total. How many lines of code can be written by 72 programmers in 72 minutes?
+
+(a) 72
+(b) 432
+(c) 12
+(d) 144
+Ans. b
+
+Q. 20. The teacher is testing a student’s proficiency in arithmetic and poses the following question. 1/3 of a number is 3 more than 1/6 of the same number. What is the number? Can you help the student find the answer?
+
+(a) 12
+(b) 18
+(c) 6
+(d) 21
+Ans. b
+Note: Alok and Bhanu play the following min-max game. Given the expression N = X – Y – Z
+
+Q29. Where X, Y and Z are variables representing single digits (0 to 9), Alok would like to maximize N while Bhanu would like to minimize it. Towards this end, Alok chooses a single digit number and Bhanu substitutes this for a variable of her choice (X, Y or Z). Alok then chooses the next value and Bhanu, the variable to substitute the value. Finally Alok proposes the value for the remaining variable. Assuming both play to their optimal strategies, the value of N at the end of the game would be
+
+(a) 2
+(b) 4
+(c) 9
+(d) -18
+Ans. a
+
+Q 21.  Horse started to chase dog as it relieved stable two hrs ago. And horse started to ran with average speed 22km/hr, horse crossed 10 mts road and two small pounds with depth 3m, and it crossed two small street with 200 mts length. After traveling 6 hrs, 2hrs after sunset it got dog. compute the speed of dog?
+
+Ans. As we have speed and travel time of horse, we can get distance traveled by it.
+Note: Hence d = 22*6 = 132km,
+Exactly this 132km was traveled by dog in 8 hours (as it started two hours earlier).
+Hence speed of dog = 132/8 = 16.5km/hr
+Ans. 16.5km/hr.
+
+Q 61. A and B play a game between them. The dice consist of colors on their faces (instead of number). When the dice are thrown, A wins if both show the same color, otherwise B wins. One die has 3 red faces and 3 blue faces. How many red and blue faces should the other die have if the both players have if the both players have the same chances of winning?
+
+(a) 5 red and 1 blue faces.
+(b) 1 red and 5 blue faces.
+(c) 3 red and 3 blue faces.
+
+Ans. c
+
+Q 22. In planet OZ planet there are 8 days, Sunday to Saturday and 8th day is Oz day. There is 36 hours in a day. What is angle between 12.40?
+
+(a) 80
+(b) 81
+(c) 87
+(d) 89
+
+Ans. 89
+
+
+Q 23.Ramu & sangeetha went for biological analysis to a island which is 34km from their place. They travelled in a boat which went at a speed of 2m/s. when they are in half a distance in the boat sangeetha note there are 7 leg & 8 leg octopuses under the water. Ramu counted the total number of legs of octopuses and got 54. Sangeetha instantly said I know how many 7 leged octopuses are there under the water. They both reached the island after 20 min they left . How many seven leged octopuses does sangeetha calculate?
+
+1. 4
+2. 5
+3. 6
+4. 7
+
+Ans : Total number of legs of both 7 & 8 leged octobus = 54. Find number of 7 leged octopuses
+
+Q 24 The ratio of current age of X and Y is 5:7. After how many years their age becomes 7:9?
+
+Ans : Simple ratio
+
+Q 25. by using 1,2,3,4,5,how many 5 digit no. can be formed which is divisible by 4,repetation of no. is allowed??
+
+Ans : 2500 (not sure)
+
+Q 26. XY=21 and X+Y=13.ans of X & Y will b in points..den x square+y square=??
+
+Ans : Solve using quadratic eqn. you get x & y
+
+Q 27. Person travels from A- to b in 9km/hr, and B to A in 4 Km/hr. What is the average speed?
+
+Ans : 2(9*4)/9+4
+
+Q 28. Avg marks of 5 sub is 61. Six sub mark is 89. What is the average after adding 6th?
+
+Ans : (61*5) + 89/6
+
+Q 29. Find number of 3’s between 1 & 100?
+
+Ans : 19
+
+Q 30. A pipe can fill a tank at the rate 1 litre/hr, the tank is 1/32 filled in 6 hours. After how many hows the tank is filled completely
+
+Ans - 1/16, 1/8, ¼, ½, 1. After 5 hours.
+
+Q. 31. A man has to get air-mail. He starts to go to airport on his motorbike. Plane comes early and the mail is sent by a horse-cart. The man meets the cart in the middle after half an hour. He takes the mail and returns back, by doing so, he saves twenty minutes. How early did the plane arrive?
+
+Ans:10min:::assume  he started at 1:00,so at 1:30 he met cart. He returned home at 2:00.so it took him 1 hour for the total jorney.by doing this he saved 20 min.so the actual time if the plane is not late is 1 hour and 20 min.so the actual time of plane is at 1:40.The cart travelled a time of 10 min before it met him.so the plane is 10 min early.
+
+Q. 32.  2 trees are there. One grows at 3/5 of the other. In 4 years total growth of the trees is 8 ft. what growth will smaller tree have in 2 years.
+
+Sol) THE BIG TREE GROWS 8FT IN 4 YEARS=>THE BIG TREE  GROWS 4FT IN 2 YEARS.WHEN WE DIVIDE 4FT/5=.8*3=>2.4
+
+ans: 1.5 mt 4 (x+(3/5)x)=88x/5=2x=5/4 after 2 years x=(3/5)*(5/4)*2 =1.5
+
+Q. 33. There is a six digit code. Its first two digits, multiplied by 3 gives all ones. And the next two digits multiplied by 6 give all twos. Remaining two digits multiplied by 9 gives all threes. Then what is the code?
+
+sol) Assume the digit xx xx xx (six digits)
+First Two digit       xx * 3=111
+                      xx=111/3=37
+( first two digits of 1 is not divisible by 3   so we can use 111)
+Second Two digit xx*6=222
+                 xx=222/6=37
+( first two digits of 2 is not divisible by 6   so we can use 222)
+Thrid Two digit    xx*9=333
+                   xx=333/9=37
+( first two digits of 3 is not divisible by 9   so we can use 333)
+
+Q. 34. There are 4 balls and 4 boxes of colours yellow, pink, red and green. Red ball is in a box whose colour is same as that of the ball in a yellow box. Red box has green ball. In which box you find the yellow ball?
+
+Ans is green...
+
+Sol) Yellow box can have either of pink/yellow balls.
+if we put a yellow ball in "yellow" box then it wud imply that "yellow" is also the colour of the box which has the red ball(becoz acordin 2 d question,d box of the red ball n the ball in the yellow box have same colour)
+thus this possibility is ruled out...
+therefore the ball in yellow box must be pink,hence the colour of box containin red ball is also pink....
+=>the box colour left out is "green",,,which is alloted to the only box left,,,the one which has yellow ball..
+
+Q. 35. A bag contains 20 yellow balls, 10 green balls, 5 white balls, 8 black balls, and 1 red ball. How many minimum balls one should pick out so that to make sure the he gets at least 2 balls of same color.
+
+Ans:he should pick 6 ball totally.
+
+Sol) Suppose he picks 5 balls of all different colours then  when he picks up the sixth one, it must match  any on of the previously drawn ball colour.
+thus he must pick 6 balls
+
+Q. 36. What is the number of zeros at the end of the product of the numbers from 1 to 100
+
+Sol) For every 5 in unit palce one zero is added Ch eta naS
+so between 1 to 100 there are 10 nos like 5,15,25,..,95 which has 5 in unit place.
+Similarly for every no divisible by 10 one zero is added in the answer so between 1 to 100  11 zeros are added
+for 25,50,75 3 extra zeros are added
+so total no of zeros are 10+11+3=24
+
+Q. 37. 10 Digit number has its first digit equals to the numbers of 1's, second digit equals to the numbers of 2's, 3rd digit equals to the numbers of 3's .4th equals number of 4's..till 9th digit equals to the numbers of 9's and 10th digit equals to the number of 0's. what is the number?.(6marks)
+
+Ans:2100010006
+
+2---shows that two 1's in the ans
+1---shows that one 2 in ans
+0---shows no 3 in the ans
+0---shows no 4 in the ans
+0---shows no 5 in the ans
+1---shows one 6 in the ans
+0---shows no 7 in the ans
+0---shows no 8 in the ans
+0---shows no 9 in the ans
+6---shows six 0's in the ans
+
+Q. 38 A and B are shooters and having their exam. A and B fall short of 10 and 2 shots respectively to the qualifying mark. If each of them fired atleast one shot and even by adding their total score together, they fall short of the qualifying mark, what is the qualifying mark?
+
+Ans is 11
+
+coz each had atleast 1 shot done so 10 + 1 = 11
+n 9 + 2 = 11
+so d ans is 11
+
+Q. 39 Gavaskar average in first 50 innings was 50. After the 51st innings his average was 51 how many runs he made in the 51st innings
+
+Ans) first 50 ings.- run= 50*50=2500
+51st ings.- avg 51. so total run =51*51=2601.
+so run scored in that ings=2601-2500=101 runs.
+
+Q. 40. Anand finishes a work in 7 days, Bittu finishes the same job in 8 days and Chandu in 6 days. They take turns to finish the work. Anand on the first day, Bittu on the second and Chandu on the third day and then Anand again and so on. On which day will the work get over?
+
+a) 3rd 
+b) 6th 
+c) 9th 
+d) 7th
+
+Ans is d) 7th day
+
+Sol) In d 1st day Anand does 1/7th of total work
+similarly,
+Bithu does 1/8th work in d 2nd day
+hence at d end of 3 days, work done = 1/7+1/8+1/6=73/168
+remaining work = (168-73)/168 = 95/168
+again after 6 days of work, remaining work is = (95-73)/168 = 22/168
+and hence Anand completes the work on 7th day.(hope u understood.)

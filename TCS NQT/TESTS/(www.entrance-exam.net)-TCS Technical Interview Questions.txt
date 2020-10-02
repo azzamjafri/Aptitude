@@ -1,0 +1,61 @@
+2011 TCS Technical Interview Questions:-
+
+What does static variable mean?
+What is a pointer?
+What is a structure?
+What are the differences between structures and arrays?
+In header files whether functions are declared or defined?
+What are the differences between malloc() and calloc()?
+What are macros? what are its advantages and disadvantages?
+Difference between pass by reference and pass by value?
+What is static identifier?
+Where are the auto variables stored?
+Where does global, static, local, register variables, free memory and C Program instructions get stored?
+Difference between arrays and linked list?
+What are enumerations?
+What is a class?
+What is an object?
+What is the difference between an object and a class?
+What is the difference between class and structure?
+What is public, protected, private?
+What are virtual functions?
+What is friend function?
+What is a scope resolution operator?
+What do you mean by inheritance?
+What is abstraction?
+What is a data structure?
+What does abstract data type means?
+Evaluate the following prefix expression " ++ 26 + - 1324" (Similar types can be asked)
+Convert the following infix expression to post fix notation ((a+2)*(b+4)) -1 (Similar types can be asked)
+How is it possible to insert different type of elements in stack?
+Stack can be described as a pointer. Explain.
+Write a Binary Search program
+What is the difference between an Abstract class and Interface?
+What is user defined exception?
+What do you know about the garbage collector?
+What is the difference between java and c++?
+In an HTML form I have a button which makes us to open another page in 15 seconds. How will you do that?
+What is the difference between process and threads?
+What is update method called?
+Have you ever used HashTable and Directory?
+What are statements in Java?
+What is RMI?
+Explain about RMI Architecture?
+What are Servelets?
+What is the use of servlets?
+Explain RMI Architecture?
+How will you pass values from HTML page to the servlet?
+How do you load an image in a Servelet?
+What is purpose of applet programming?
+How will you communicate between two applets?
+What are the basic functions of an operating system?
+Explain briefly about, processor, assembler, compiler, loader, linker and the functions executed by them.
+What are the difference phases of software development? Explain briefly?
+Differentiate between RAM and ROM?
+What is DRAM? In which form does it store data?
+What is cache memory?
+What is hard disk and what is its purpose?
+Differentiate between Complier and Interpreter?
+What are the different tasks of Lexical analysis?
+What are the different functions of Syntax phase, Sheduler?
+ 

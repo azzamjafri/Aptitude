@@ -1,0 +1,243 @@
+TCS Placement Paper January 2011:-
+
+Writen Test:-
+
+1. (1/2) of a number is 3 more than the (1/6) of the same number? 
+
+a) 6
+b) 7
+c) 8
+d) 9
+
+2. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of 1 liter every hour in A, it gets filled up like, 10, 20, 40,80, 160..in tank B. (At the end of first hour, B has 10 liters, second hour it has 20 liters and so on). If tank B is 1/32 filled of the 21 hours, what is total duration of hours required to fill it completely?
+
+a) 26
+B) 25
+c) 5
+d) 27
+
+3. Smita was making a cube with dimensions 5*5*5 using 1*1*1 cubes. What is the number of cubes needed to make a hollow cube looking of the same shape?
+
+a) 98
+b)104
+c)100
+d) 61
+
+4. A lady has fine gloves and hats in her closet- 25blue, 7 red, and 9 yellow. The lights are out and it is totally dark. In spite of the darkness, she can make out the difference between a hat and a glove. She takes out an item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure she has a pair of each color?
+
+5. A game is played between 2 players and one player is declared as winner. All the winners from first round are played in second round. All the winners from second round are played in third round and so on. If 8 rounds are played to declare only one player as winner, how many players are played in first round?
+
+a) 256
+b) 512
+c) 64
+d) 128
+
+6. 1. There is 7 friends (A1, A2, A3....A7).If A1 have to have shake with all without repeat. How many handshakes possible?
+a) 6
+b) 21
+c) 28
+d) 7
+
+7. On planet korba, a solar blast has melted the ice caps on its equator. 9 years after the ice melts, tiny planetoids called echina start growing on the rocks. Echina grows in the form of circle, and the relationship between the diameter of this circle and the age of echina is given by the formula d = 4*v (t-9) for t = 9 where d represents the diameter in mm and t the number of years since the solar blast. Jagan recorded the radius of some echina at a particular spot as 7mm. How many years back did the solar blast occur?
+
+a) 17
+b) 21.25
+c) 12.25
+d) 14.05
+
+8. Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1928 as Scuderia Ferrari, the company sponsored drivers and manufactured race cars before moving into production of street-legal vehicles in 1947 as Ferrari S.P.A. Throughout its history, the company has been noted for its continued participation in racing, especially in Formula One where it has employed great success .Rohit once bought a Ferrari. It could go 4 times as fast as Mohan's old Mercedes. If the speed of Mohan's Mercedes is 35 km/hr and the distance traveled by the Ferrari is 490 km, find the total time taken for Rohit to drive that distance.
+
+a) 20.72
+b) 5.18
+c) 238.25
+d) 6.18
+
+9. A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. Statement n says ' At least n of the statements on this sheet are false. ‘Which statements are true and which are false?
+
+a) The even numbered statements are true and the odd numbered are false.
+b) The odd numbered statements are true and the even numbered are false.
+c) The first 35 statements are true and the last 35 are false. 
+d) The first 35 statements are false and the last 35 are false.
+
+10. 3 persons a, b ,c were there A always says truth lies on Monday, Tuesday,& Wednesday. but C lies on thrusday, Friday & Saturday .one day A said" that B & C said to A that” B said “yesterday way one of the days when I lies”, C said that” yesterday way one of the days when I lies too". then which day was that?
+a) Sunday
+b) Thursday
+c) Saturday
+d) Tuesday
+
+11. By using 1,2,3,4,5,how many 5 digit no. can be formed which is divisible by 4,repetation of no. is allowed??
+
+12. Alice and Bob play the following coins-on-a-stack game. 20 coins are stacked one above the other. One of them is a special (gold) coin and the rest are ordinary coins. The goal is to bring the gold coin to the top by repeatedly moving the topmost coin to another position in the stack. Alice starts and the players take turns. A turn consists of moving the coin on the top to a position i below the top coin (0 = i = 20). We will call this an i-move (thus a 0-move implies doing nothing). The proviso is that an i-move cannot be repeated; for example once a player makes a 2-move, on subsequent turns neither player can make a 2-move.If the gold coin happens to be on top when it's a player's turn then the player wins the game. Initially, the gold coins the third coin from the top. Then:-
+
+A) In order to win, Alice's first move should be a 0-move.
+B) In order to win, Alice's first move can be a 0-move or a 1-move.
+C) In order to win, Alice's first move should be a 1-move.
+D) Alice has no winning strategy.
+
+13. For the FIFA world cup, Paul the octopus has been predicting the winner of each match with amazing success. It is rumored that in a match between 2 teams A and B, Paul picks A with the same probability as A's chances of winning. Let's assume such rumors to be true and that in a match between Ghana and Bolivia, Ghana the stronger team has a probability of 2/3 of winning the game. What is the probability that Paul will correctly pick the winner of the Ghana-Bolivia game?
+A) 4/9
+B) 1/9
+C) 2/3
+D) 5/3
+
+14. Alok and Bhanu play the following min-max game. Given the expression N = 9 + X + Y – Z where X, Y and Z are variables representing single digits (0 to 9), Alok would like to maximize N while Bhanu would like to minimize it. Towards this end, Alok chooses a single digit number and Bhanu substitutes this for a variable of her choice (X, Y or Z). Alok then chooses the next value and Bhanu, the variable to substitute the value. Finally Alok proposes the value for the remaining variable. Assuming both play to their optimal strategies, the value of N at the end of the game would be 
+
+15. 10 suspects are rounded by the police and questioned about a bank robbery. Only one of them is guilty. The suspects are made to stand in a line and each person declares that the person next to him on his right is guilty. The rightmost person is not questioned. Which of the following possibilities are true? 
+
+A. All suspects are lying or the leftmost suspect is innocent. 
+B. All suspects are lying and the leftmost suspect is innocent . 
+
+A) B only 
+B) Neither A nor B
+C) A only
+D) Both A and B
+
+16. The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 billion. As one of the forerunners in the technology front, Tirnop continues to lead the way in products and services in India. At Tirnop, all programmers are equal in every respect. They receive identical salaries ans also write code at the same rate. Suppose 12 such programmers take 12 minutes to write 12 lines of code in total. How long will it take 72 programmers to write 72 lines of code in total?
+
+17. There are two boxes, one containing 10 red balls and the other containing 10 green balls. You are allowed to move the balls between the boxes so that when you choose a box at random and a ball at random from the chosen box, the probability of getting a red ball is maximized. This maximum probability is
+
+18. One grandfather has three grandchildren, two of their age difference is 3, eldest child age is 3 times youngest child’s age and eldest child’s age is two times of sum of other two children. What is the age of eldest child?
+
+19.  In a school, for a student out of 100 he got 74 of average for 7 subjects and he got 79 marks in the 8th subject. what is the average of all the subject?
+
+a)76.251 b)80.25 c)74.265 d)74.625
+
+20.  3 persons a,b,c were there A always says truth,B lies on Monday,tusday,& Wednesday.but C lies on thrusday,Friday & saturday .one day A said”that B & C said to A that” B said “yesterday way one of the days when I lies”,C said that”yesterday way one of the days when I lies too”.then which day was that?
+a)Sunday b)Thursday c)Saturday d)Tuesday
+
+21. Which is the smallest no which divides 2880 and gives a perfect square?
+
+a)4 b)9 c)3 d)5
+
+22.  How many 9 digit numbers are possible by using the digits 1,2,3,4,5 which are divisible by 4 if the repetition is allowed?
+
+a)57 b)56 c)59 d)58
+
+23.  how many 13 digit numbers are possible by using the digits 1,2,3,4,5 which are divisible by 4 if repetition of digits is allowed?
+
+24.  By using 1,2,3,4,5,how many 5 digit no. can be formed which is divisible by 4,repetation of no. is allowed??
+
+25.  Form 8 digit numbers from by using 1, 2,3,4,5 with repetition is allowed and must be divisible by4?
+
+26.  How many of 14 digit numbers we can make with 1,2,3,4,5 that are divisible by 4. Repetitions allowed.
+
+27. Six friends decide to share a big cake. Since all of them like the cake, they begin quarreling who gets to first cut and have a piece of the cake. One friend suggests that they have a blindfold friend choose from well shuffled set of cards numbered one to six. You check and find that this method works as it should simulating a fair throw of a die. You check by performing multiple simultaneous trials of picking the cards blindfold and throwing a die. You note that the number shown by the method of picking up a card and throwing a real world die, sums to a number between 2 and 12. Which total would be likely to appear more often – 8,9 or 10?
+
+a) 8 b)All are equally likely c)9 d)10
+
+28. Given a collection of points P in the plane , a 1-set is a point in P that can be separated from the rest by a line, .i.e the point lies on one side of the line while the others lie on the other side. The number of 1-sets of P is denoted by n1(P). The minimum value of n1(P) over all configurations P of 5 points in the plane in general position (.i.e no three points in P lie on a line) is
+
+29. Jagan recorded the radius of some echina at a particular spot as 12mm. How many years back did the solar blast occur?
+
+(a) 17
+(b) 21.25
+(c) 12
+(d) 12.06
+Ans. c
+
+30. Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1928 as Scuderia Ferrari , the company sponsored drivers and manufactured race cars before moving into production of street-legal vehicles in 1947 as Feraari S.P.A. Throughout its history, the company has been noted for its continued participation in racing, especially in Formula One where it has employed great success. Rohit once bought a Ferrari . It could go 4 times as fast as Mohan's old Mercedes. If the speed of Mohan's Mercedes is 46 km/hr and the distance traveled by the Ferrari is 953 km, find the total time taken for Rohit to drive that distance.
+
+(a) 20.72
+(b) 5.18
+(c) 238.25
+(d) 6.18
+
+Ans. b
+
+31. A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. Statement n says 'At least n of the statements on this sheet are false.' Which statements are true and which are false?
+
+(a) The even numbered statements are true and the odd numbered are false.
+(b) The odd numbered statements are true and the even numbered are false.
+(c) The first 35 statements are true and the last 35 are false.
+(d) The first 35 statements are false and the last 35 are false.
+
+Ans. c
+
+Note: For this type of Questions, follow this:
+At least- Ist half are true, Last half are false
+Exactly- Last second one is true or (N-1)th Statement is true
+Almost- All are true.
+
+32. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of one liter every hour in A, it gets filled up like 10, 20, 40, 80, 160 in tank B. (At the end of first hour, B has 10 liters, second hour it has 20, and so on). If tank B is 1/32 filled after 21 hours, what is the total duration required to fill it completely?
+
+(a) 26 hrs
+(b) 25 hrs
+(c) 5 hrs
+(d) 27 hrs
+Ans. a
+
+33. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of one liter every hour in A, it gets filled up like 10, 20, 40, 80, 160... in tank B. (At the end of first hour, B has 10 liters , second hour it has 20, and so on). If tank B is 1/16 filled after 4 hours, what is the total duration required to fill it completely?
+
+(a) 8hrs
+(b) 25 hrs
+(c) 5 hrs
+(d) 27 hrs
+Ans. a
+
+34. Unnecessary data. A lady has fine gloves and hats in her closet- 18 blue- 32 red , 10 white , 25 yellow, 55 purple, 30 orange. The lights are out and it is totally dark inspite of the darkness. She can make out the difference between a hat and a glove. She takes out an item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure she has a pair of each color of blue, red, yellow?
+
+(a) 59
+(b) 8
+(c) 50
+(d) 42
+Ans. a(32+25+2)
+Note: For this type of questions:
+Bigger+Middle+1 (Suppose 18, 32, 25 =32+25+1), If you do not find answer in options, choose the one closer tho the answer you got.
+
+35. The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 billion. As one of the forerunners in the technology front, Tirnop continues to lead the way in products and services in India. At Tirnop, all programmers are equal in every respect. They receive identical salaries and also write code at the same rate. Suppose 12 such programmers take 12 minutes to write 12 lines of code in total. How long will it take 72 programmers to write 72 lines of code in total?
+
+(a) 6
+(b) 18
+(c) 72
+(d) 12
+Ans. d
+Note: N1T1/W1=N2T2, W=No. of Lines, N=No. of PRGMRS, T=Time
+
+36. The citizens of planet nigiet are 6 fingered and have thus developed their decimal system in base 6. A certain street in nigiet contains 1000 (in base 8) buildings numbered 1 to 1000. How many 3s are used in numbering these buildings?
+
+(a) 256
+(b) 54
+(c) 192
+(d) 108
+Ans. d
+Note: First find no. 3s in 1000 (Decimal only), Definately you will get 300, Now convert 300 into 300 base 6 by this 3*6^2+0*6^1+0*6^0
+
+
+37.12 people {a1, a2, …, a12} meet and shake hands in a circular fashion. In other words, there are totally 36 handshakes involving the pairs, {a1, a2}, {a2, a3}, …, {a11, a12}, {a12, a1}. Then size of the smallest set of people such that the rest have shaken hands with at least one person in the set is
+
+(a) 12
+(b) 4
+(c) 18
+(d) 11
+Ans. B (N/3)
+
+38. Alice and Bob play the following coins-on-a-stack game. 100 coins are stacked one above the other. One of them is a special (gold) coin and the rest are ordinary coins. The goal is to bring the gold coin to the top by repeatedly moving the topmost coin to another position in the stack.
+Alice starts and the players take turns. A turn consists of moving the coin on the top to a position i below the top coin (0 = i = 100). We will call this an i-move (thus a 0-move implies doing nothing). The proviso is that an i-move cannot be repeated; for example once a player makes a 2-move, on subsequent turns neither player can make a 2-move.
+If the gold coin happens to be on top when it’s a player’s turn then the player wins the game.
+
+A. Alice has no winning strategy.
+B. Initially, the gold coins the third coin from the top. Then
+C. In order to win, Alice’s first move should be a 0-move.
+D. In order to win, Alice’s first move should be a 1-move.
+
+Ans. D
+
+39. people meet and shake hands. The maximum number of handshakes possible if there is to be no “cycle” of handshakes is (A cycle of handshakes is a sequence of k people a1, a2, ……, ak (k > 2) such that the pairs {a1, a2}, {a2, a3}, ……, {ak-1, ak}, {ak, a1} shake hands).
+
+(a)7
+(b) 6
+(c) 9
+(d) 8
+
+Ans. c **(N-1)**
+
+40. Amal bought 5 pens, 7 pencils and 4 erasers. Rajan bought 6 pens, 8 erasers and 14 pencils for an amount which was half more than what Amal had paid. What % of the total amount paid by Amal was paid for pens?
+
+a) 37.5%  
+b) 62.5%
+c) 50%
+d) None of these
+
+ 
+
+ 

@@ -1,0 +1,293 @@
+TCS Placement Paper October 2010:-
+
+Writen Test:-
+
+Q. 1. In Madras, temperature at noon varies according to -t^2/2 + 8t + 3, where t is elapsed time. Find how much temperature more or less in 4pm to 9pm.
+
+Ans. At 9pm 7.5 more
+
+Sol) In equestion  first put t=9,
+we will get 34.5...........................(1)
+now put t=4,
+we will get 27..............................(2)
+so ans=34.5-27
+          =7.5
+
+Q. 2. A person had to multiply two numbers. Instead of multiplying by 35, he multiplied by 53 and the product went up by 540. What was the raised product?
+
+a) 780   
+b) 1040 
+c) 1590 
+d) 1720
+
+Sol) x*53-x*35=540=> x=30 therefore, 53*30=1590 Ans
+
+Q. 3. How many positive integer solutions does the equation 2x+3y = 100 have?
+
+a) 50 
+b) 33 
+c) 16  
+d) 35
+
+Sol) There is a simple way to answer this kind of Q's given 2x+3y=100, take l.c.m of 'x' coeff and 'y' coeff i.e. l.c.m of 2,3 ==6then divide 100 with 6 , which turns out 16 hence answer is 16short cut formula--- constant / (l.cm of x coeff and y coeff)
+
+Q. 4 The total expense of a boarding house are partly fixed and partly variable with the number of boarders. The charge is Rs.70 per head when there are 25 boarders and Rs.60 when there are 50 boarders. Find the charge per head when there are 100 boarders.
+
+a) 65  
+b) 55 
+c) 50 
+d) 45
+
+Sol)
+Let a = fixed cost and k = variable cost and n = number of boarders
+total cost when 25 boarders c = 25*70 = 1750 i.e. 1750 = a + 25k
+total cost when 50 boarders c = 50*60 = 3000 i.e. 3000 = a + 50k
+solving above 2 eqns, 3000-1750 = 25k i.e. 1250 = 25k i.e. k = 50
+therefore, substituting this value of k in either of above 2 eqns we get
+a = 500 (a = 3000-50*50 = 500 or a = 1750 - 25*50 = 500)
+so total cost when 100 boarders = c = a + 100k = 500 + 100*50 = 5500
+so cost per head = 5500/100 = 55
+
+Q. 5 Amal bought 5 pens, 7 pencils and 4 erasers. Rajan bought 6 pens, 8 erasers and 14 pencils for an amount which was half more than what Amal had paid. What % of the total amount paid by Amal was paid for pens?
+
+a) 37.5%   
+b) 62.5% 
+c) 50% 
+d) None of these
+
+Sol)
+Let, 5 pens + 7 pencils + 4  erasers = x  rupees
+so 10 pens  + 14 pencils + 8 erasers = 2*x rupees
+also mentioned, 6 pens + 14 pencils + 8 erarsers = 1.5*x rupees
+so (10-6) = 4 pens = (2-1.5)x rupees
+so 4 pens = 0.5x rupees => 8 pens = x rupees
+so 5 pens = 5x/8 rupees  = 5/8 of total (note x rupees is total amt paid byamal)
+i.e 5/8 = 500/8% = 62.5% is the answer
+
+Q. 6. lost Rs.68 in two races. My second race loss is Rs.6 more than the first race. My friend lost Rs.4 more than me in the second race. What is the amount lost by my friend in the second race?
+
+Sol)
+x + x+6 = rs 68
+2x + 6 = 68
+2x = 68-6
+2x = 62
+x=31
+x is the amt lost in I race
+x+ 6 = 31+6=37 is lost in second race
+then my friend lost 37 + 4 = 41 Rs
+
+Q. 7. Ten boxes are there. Each ball weighs 100 gms. One ball is weighing 90 gms.
+
+i) If there are 3 balls (n=3) in each box, how many times will it take to find 90 gms ball?
+ii) Same question with n=10
+iii) Same question with n=9
+
+when n=3
+(i) nC1= 3C1 =3 for 10 boxes .. 10*3=30
+
+(ii) 10C1=10 for 10 boxes ....10*10=100
+
+(iii)9C1=9 for 10 boxes .....10*9=90
+
+Q. 8. (1-1/6) (1-1/7).... (1- (1/ (n+4))) (1-(1/ (n+5))) = ?
+
+leaving the first numerater and last denominater, all the numerater and denominater will cancelled out one another.
+
+Ans. 5/(n+5)
+
+Q. 9. A face of the clock is divided into three parts. First part hours total is equal to the sum of the second and third part. What is the total of hours in the bigger part?
+
+Sol) the clock normally has 12 hr
+three parts x,y,z
+x+y+z=12
+x=y+z
+2x=12
+x=6
+so the largest part is 6 hrs
+
+Q. 10. Low temperature at the night in a city is 1/3 more than 1/2 hinge as higher temperature in a day. Sum of the low temp and high temp is 100 c. then what is the low temp.
+
+Ans is 40 c.
+
+Q. 11. 2 oranges,3 bananas and 4 apples cost Rs.15. 3 ornages 2 bananas 1 apple costs Rs 10. what is the cost of 3 oranges, 3 bananas and 3 apples
+
+Ans. Rs 15.(same as above)
+
+Q. 12. A shopkeeper bought a watch for Rs.400 and sold it for Rs.500.What is his profit percentage?
+
+Ans. 25%
+
+Q. 13.  Bhanu spends 30% of his income on petrol on scooter. ? of the remaining on house rent and the balance on food. If he spends Rs.300 on petrol then what is the expenditure on house rent?
+
+a) Rs.525
+b) Rs.1000
+c) Rs.675
+d) Rs.175
+
+(ans 175)
+
+Q. 14. A sporting goods store ordered an equal number of white and yellow balls. The tennis ball company delivered 45 extra white balls, making the ratio of white balls to yellow balls 1/5 : 1/6. How many white tennis balls did the store originally order for?
+
+a) 450
+b) 270
+c) 225
+d)None of these 
+
+ans=180
+
+Q. 12. (1/2) of a number is 3 more than the (1/6) of the same number? 
+
+a) 6
+b) 7
+c) 8
+d) 9
+
+Q. 15.There are two water tanks A and B, A is much smaller than B. While water fills at the rate of 1 liter every hour in A, it gets filled up like, 10, 20, 40,80, 160..in tank B. (At the end of first hour, B has 10 liters, second hour it has 20 liters and so on). If tank B is 1/32 filled of the 21 hours, what is total duration of hours required to fill it completely?
+
+a) 26
+B) 25
+c) 5
+d) 27
+
+Q. 16.Smita was making a cube with dimensions 5*5*5 using 1*1*1 cubes. What is the number of cubes needed to make a hollow cube looking of the same shape?
+
+a) 98
+b)104
+c)100
+d) 61
+
+Q. 17. A lady has fine gloves and hats in her closet- 25blue, 7 red, and 9 yellow. The lights are out and it is totally dark. In spite of the darkness, she can make out the difference between a hat and a glove. She takes out an item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure she has a pair of each color?
+
+Q. 18.  A game is played between 2 players and one player is declared as winner. All the winners from first round are played in second round. All the winners from second round are played in third round and so on. If 8 rounds are played to declare only one player as winner, how many players are played in first round?
+a) 256
+b) 512
+c) 64
+d) 128
+
+Q. 19. There is 7 friends (A1, A2, A3....A7).If A1 have to have shake with all without repeat. How many handshakes possible?
+a) 6
+b) 21
+c) 28
+d) 7
+
+Q. 20. On planet korba, a solar blast has melted the ice caps on its equator. 9 years after the ice melts, tiny planetoids called echina start growing on the rocks. Echina grows in the form of circle, and the relationship between the diameter of this circle and the age of echina is given by the formula d = 4*v (t-9) for t = 9 where d represents the diameter in mm and t the number of years since the solar blast. Jagan recorded the radius of some echina at a particular spot as 7mm. How many years back did the solar blast occur?
+a) 17
+b) 21.25
+c) 12.25
+d) 14.05
+
+Q. 21. Ferrari S.P.A is an Italian sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1928 as Scuderia Ferrari, the company sponsored drivers and manufactured race cars before moving into production of street-legal vehicles in 1947 as Ferrari S.P.A. Throughout its history, the company has been noted for its continued participation in racing, especially in Formula One where it has employed great success .Rohit once bought a Ferrari. It could go 4 times as fast as Mohan's old Mercedes. If the speed of Mohan's Mercedes is 35 km/hr and the distance traveled by the Ferrari is 490 km, find the total time taken for Rohit to drive that distance.
+a) 20.72
+b) 5.18
+c) 238.25
+d) 6.18
+
+Q. 22. A sheet of paper has statements numbered from 1 to 70. For all values of n from 1 to 70. Statement n says ' At least n of the statements on this sheet are false. ‘Which statements are true and which are false?
+a) The even numbered statements are true and the odd numbered are false.
+b) The odd numbered statements are true and the even numbered are false.
+c) The first 35 statements are true and the last 35 are false. 
+d) The first 35 statements are false and the last 35 are false.
+
+Q. 23. 3 persons a, b ,c were there A always says truth lies on Monday, Tuesday,& Wednesday. but C lies on thrusday, Friday & Saturday .one day A said" that B & C said to A that” B said “yesterday way one of the days when I lies”, C said that” yesterday way one of the days when I lies too". then which day was that?
+a) Sunday
+b) Thursday
+c) Saturday
+d) Tuesday
+
+Q. 24. By using 1,2,3,4,5,how many 5 digit no. can be formed which is divisible by 4,repetation of no. is allowed??
+
+Q 25. Alice and Bob play the following coins-on-a-stack game. 20 coins are stacked one above the other. One of them is a special (gold) coin and the rest are ordinary coins. The goal is to bring the gold coin to the top by repeatedly moving the topmost coin to another position in the stack. Alice starts and the players take turns. A turn consists of moving the coin on the top to a position i below the top coin (0 = i =
+
+Q 26.. We will call this an i-move (thus a 0-move implies doing nothing). The proviso is that an i-move cannot be repeated; for example once a player makes a 2-move, on subsequent turns neither player can make a 2-move.If the gold coin happens to be on top when it's a player's turn then the player wins the game. Initially, the gold coins the third coin from the top. Then:-
+A) In order to win, Alice's first move should be a 0-move.
+B) In order to win, Alice's first move can be a 0-move or a 1-move.
+C) In order to win, Alice's first move should be a 1-move.
+D) Alice has no winning strategy.
+
+Q.27. .For the FIFA world cup, Paul the octopus has been predicting the winner of each match with amazing success. It is rumored that in a match between 2 teams A and B, Paul picks A with the same probability as A's chances of winning. Let's assume such rumors to be true and that in a match between Ghana and Bolivia, Ghana the stronger team has a probability of 2/3 of winning the game. What is the probability that Paul will correctly pick the winner of the Ghana-Bolivia game?
+
+A) 4/9
+B) 1/9
+C) 2/3
+D) 5/3
+
+Q.28. Alok and Bhanu play the following min-max game. Given the expression N = 9 + X + Y – Z where X, Y and Z are variables representing single digits (0 to 9), Alok would like to maximize N while Bhanu would like to minimize it. Towards this end, Alok chooses a single digit number and Bhanu substitutes this for a variable of her choice (X, Y or Z). Alok then chooses the next value and Bhanu, the variable to substitute the value. Finally Alok proposes the value for the remaining variable. Assuming both play to their optimal strategies, the value of N at the end of the game would be 
+
+29. 10 suspects are rounded by the police and questioned about a bank robbery. Only one of them is guilty. The suspects are made to stand in a line and each person declares that the person next to him on his right is guilty. The rightmost person is not questioned. Which of the following possibilities are true? 
+A. All suspects are lying or the leftmost suspect is innocent. 
+B. All suspects are lying and the leftmost suspect is innocent . 
+A) B only 
+B) Neither A nor B
+C) A only
+D) Both A and B
+
+Q.30  The IT giant Tirnop has recently crossed a head count of 150000 and earnings of $7 billion. As one of the forerunners in the technology front, Tirnop continues to lead the way in products and services in India. At Tirnop, all programmers are equal in every respect. They receive identical salaries ans also write code at the same rate. Suppose 12 such programmers take 12 minutes to write 12 lines of code in total. How long will it take 72 programmers to write 72 lines of code in total?
+
+Q.31.There are two boxes, one containing 10 red balls and the other containing 10 green balls. You are allowed to move the balls between the boxes so that when you choose a box at random and a ball at random from the chosen box, the probability of getting a red ball is maximized. This maximum probability is
+
+Q. 32. If you type in the command nohup sort employees > list 2 > error out & and log off ,the next time you log in, the output will be
+
+a) in a file called list and the error will de typed in a file error out
+b) there will be no file called list or error out
+c) error will be logged in a file called list and o/p will be in error out
+d) you will not be allowed to log in
+e) none of the above
+
+Q.33. Ram buys a cycle for 31 dollars and given a cheque of amount 35 dollars. Shop Keeper exchanged the cheque with his neighbor and gave change to Ram. After 2 days, it is known that cheque is bounced. Shop keeper paid the amount to his neighbor. The cost price of cycle is 19 dollars. What is the profit/loss for shop keeper?
+
+Ans. is 23(cost price + change given).
+
+Q.34. Metal strip of width ‘x’ cm. 2 metal strips are placed one over the other, then the combine length of 2 strips is ‘y’. If ‘z’ strips are placed in that manner. What is the final width of that arrangement?
+
+Ans. is (z-1) (y-x) +x.
+
+Q.17. A game is played between 2 players and one player is declared as winner. All the winners from first round are played in second round. All the winners from second round are played in third round and so on. If 8 rounds are played to declare only one player as winner, how many players are played in first round
+
+Ans. is 28.
+
+Q.35. There are 3 boys A, B, C and 2 Girls D, E. D always sit right to A. Girls never sit in extreme positions and in the middle position. C always sits in the extreme positions. Who is sitting immediate right to E?
+
+Ans. is B or C
+
+Q.19. 49 members attended the party. In that 22 are males, 17 are females. The shake hands between males, females, male and female. Total 12 people given shake hands. How many such kinds of such shake hands are possible?
+
+Ans. is 12C2
+
+Q.36. Entry ticket to an exhibition ranges from 1p to 31p. You need to provide exact change at the counter. You have 31p coin. In how many parts will u divide 31p so that u will provide the exact change required and carry as less coins as possible?
+
+(a) 22
+(b) 31
+(c) 6
+(d) 32
+
+Ans. is 6
+
+Q.37. There are 2 friends Peter and Paul. Peter age is twice as old as Paul when peter was as old as Paul is now. Sum of the present ages of Peter and Paul is 35.What is the present age of Peter?
+
+Ans. is 20
+
+38. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of one liter every hour in A, it gets filled up like 10, 20, 40, 80, 160 in tank B. (At the end of first hour, B has 10 liters, second hour it has 20, and so on). If tank B is 1/32 filled after 21 hours, what is the total duration required to fill it completely?
+
+(a) 26 hrs
+(b) 25 hrs
+(c) 5 hrs
+(d) 27 hrs
+Ans. a
+
+39. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of one liter every hour in A, it gets filled up like 10, 20, 40, 80, 160... in tank B. (At the end of first hour, B has 10 liters , second hour it has 20, and so on). If tank B is 1/16 filled after 4 hours, what is the total duration required to fill it completely?
+
+(a) 8hrs
+(b) 25 hrs
+(c) 5 hrs
+(d) 27 hrs
+Ans. a
+
+40. Unnecessary data. A lady has fine gloves and hats in her closet- 18 blue- 32 red , 10 white , 25 yellow, 55 purple, 30 orange. The lights are out and it is totally dark inspite of the darkness. She can make out the difference between a hat and a glove. She takes out an item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure she has a pair of each color of blue, red, yellow?
+
+(a) 59
+(b) 8
+(c) 50
+(d) 42
+Ans. a(32+25+2)
+Note: For this type of questions:
+Bigger+Middle+1 (Suppose 18, 32, 25 =32+25+1), If you do not find answer in options, choose the one closer tho the answer you got.

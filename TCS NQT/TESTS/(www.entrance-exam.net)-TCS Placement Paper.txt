@@ -1,0 +1,158 @@
+TCS Placement Paper November 2010:-
+
+Writen Test:-
+
+1. (1/2) of a number is 3 more than the (1/6) of the same number?
+
+a) 6 b)7 c)8 d)9
+
+2. There are two water tanks A and B, A is much smaller than B. While water fills at the rate of 1 liter every hour in A, it gets filled up like, 10, 20, 40,80, 160…..in tank B. (At the end of first hour, B has 10 liters, second hour it has 20 liters and so on). If tank B is 1/32 filled of the 21 hours, what is total duration of hours required to fill it completely?
+
+a) 26 B)25 c)5 d)27
+
+3. persons standing in queue with different age group, after two years their average age will be 43 and seventh person joined with them. Hence the current average age has become 45. Find the age of seventh person?
+
+a) 43 b)69 c)52 d)31
+
+4. In the reading room of a library, there are 23 reading spots. Each reading spot consists of a round table with 9 chairs placed around it. There are some readers such that in each occupied reading spot there are different numbers of readers. If in all there are 36 readers, how many reading spots do not have even a single reader?
+
+a)8 b)none c)16 d)15
+
+5. A man jogs at 6 mph over a certain journey and walks over the same route at 4 mph. What is his average speed for the journey?
+
+a) 2.4 mph b) 4.8 mph c) 4 mph d) 5 mph
+
+6. (40*40*40 – 31*31*31)/(40*40+40*31+31*31)=?
+
+a)8 b)9 c)71 d)51
+
+7. ((4x+3y)+(5x+9y))/(5x+5y) = ? as (x/2y) = 2
+
+a)8 b)none c)16 d)15
+
+8. A girl has to make pizza with different toppings. There are 8 different toppings. In how many ways can she make pizzas with 2 different toppings?
+
+a)16 b)56 c)112 d)28
+
+9. 3, 22, 7, 45, 15,? , 31
+
+a)91 b)151 c)90 d)5
+
+10. Simple question but big one on average age.sth like a, b, c weighted separately 1st a, b, c ,then a& b, then b &c ,then c & a at last abc, the last weight was 167,then what will be the average weight of the 7 reading?
+
+a)95 b)95.428 c)95.45 d)94
+
+11. A toy train produces 10 different sounds when it moves around a circular toy track of radius 5 m at 10 m per min. However, the toy train is defective and it now produces only 2 different tunes at random. What are the odds that the train produces for consecutive music tones of the same type?
+
+a) 1 in 16 B)1 in 4 c)1 in 8 d)1 in 32
+
+12. A triangle is made from a rope. The sides of the triangle are 25 cm, 11 cm and 31 cm. What will be the area of the square made from the same rope?
+
+a)280.5625 b)240.5625 c)280.125 d)240
+
+13. What is the distance between the z-intercept from the x-intercept in the equation ax+by+cz+d=0
+
+14. What is the distance of the z-intercept from the x-intercept in the equation ax+by+cz=d (I do not remember the values of a, b, c, d).
+
+15. A scientist was researching on animal behavior in his lab. He was very interested in analyzing the behavior of bear. For some reason he travelled 1mile in north direction & reached at North Pole. There he saw a bear. He then followed the bear around 1 hr with a speed of 2km/hr in east direction. After that he travelled in south direction & reached at his lab in2 hrs. Then what is the color of the bear?
+
+a)white b)black c)gray d)brown
+
+16. Out of 7 children the youngest is boy then find the probability that all the remaining children are boys
+
+a)1/64 b)1/32 c)1/128 d)1/256
+
+17. Usha bought a linen cloth and rope to build a tent. If the rope is 153 m long and it is to be cut into pieces of 1m length, then how many cuts are to be made to cut the ropes into 153 pieces?
+
+a)153 b)152 c)154 d)155
+
+18. Spores of a fungus, called late blight, grow and spread infection rapidly. These pathogens were responsible for the Irish potato famine of the mid-19th century. These seem to have attacked the tomato crops in England this year. The tomato crops have reduced and the price of the crop has risen up. The price has already gone up to $45 a box from $27 a box a month ago. How much more would a vegetable vendor need to pay to buy 27 boxes this month over what he would have paid last month?
+
+a) $27 b)$ 18 c)$45 d)$ 486
+
+19. A Person buys a horse for 15 ponds, after one year he sells it for 20 pounds. After one year, again he buys the same horse at 30 pounds and sells it for 40 pounds. What is the profit for that person?
+
+20. John buys a cycle for 31 dollars and given a cheque of amount 35 dollars. Shop Keeper exchanged the cheque with his neighbor and gave change to John. After 2 days, it is known that cheque is bounced. Shop keeper paid the amount to his neighbor. The cost price of cycle is 19 dollars. What is the profit/loss for shop keeper?
+
+a)loss 23 b)gain 23 c)gain 54 d)Loss 54
+
+21. A lady has fine gloves and hats in her closet- 18 blue, 32 red, and 25 yellow. The lights are out and it is totally dark. In spite of the darkness, she can make out the difference between a hat and a glove. She takes out an item out of the closet only if she is sure that if it is a glove. How many gloves must she take out to make sure she has a pair of each color?
+
+a)50 b)8 c)60 d)42
+
+22. Sangakara and Ponting selects batting by using a dice, but dice is biased. So to resolve, Ponting takes out a coin. What is the probability that coin shows correct option?
+
+a)1/2 b)1/6 c)1/12 d)6/10
+
+23. In a family there are some boys and girls. All boys told that they are having equal no of brothers and sisters and girls told that they are having twice the no. of brothers than sisters. How many boys and girls present in a family?
+
+a)4 boys and 3 girls b)3 boys and 4 girls c)2 boys and 5 girls d)5 boys and 2 girls
+
+24. 10men and 10 women are there, they dance with each other, is there possibility that 2 men are dancing with same women and vice versa?
+
+a)22 b)20 c)10 d)none
+
+25. Middle- earth is a fictional land inhabited by hobbits, elves, dwarves and men. The hobbits and elves are peaceful creatures that prefer slow, silent lives and appreciate nature and art. The dwarves and the men engage in physical games. The game is as follows. A tournament is one where out of the two teams that play a match, the one that loses get eliminated. The matches are played in different rounds, where in every round; half of the teams get eliminated from the tournament. If there are 8 rounds played in knock out tournament, how many matches were played?
+
+a)257 b)256 c)72 d)255
+
+26. A game is played between 2 players and one player is declared as winner. All the winners from first round are played in second round. All the winners from second round are played in third round and so on. If 8 rounds are played to declare only one player as winner, how many players are played in first round?
+
+a)256 b)512 c)64 d)128
+
+27.Metal strip of width ‘x’ cm. 2 metal strips are placed one over the other, then the combine length of 2 strips is ‘y’. If ‘z’ strips are placed in that manner. What is the final width of that arrangement?
+
+28. There is 7 friends (A1, A2, A3....A7).If A1 have to have shake with all without repeat. How many handshakes possible?
+
+a)6 b)21 c)28 d)7
+
+29.  49 members attended the party. In that 22 are males, 17 are females. The shake hands between males, females, male and female. Total 12 people given shake hands. How many such kinds of such shake hands are possible?
+
+a)122 b)66 c)48 d)128
+
+30. B is taller than j and 3 pillars. P is shorter than B and 2 pillars is j shorter/taller than P?
+
+a)yes b)no c)may be d)can’t find
+
+31. There are 1000 pillars for a temple. 3 friends Linda, Chelsey, Juli visited that temple. (Some unrelated stuff) Linda is taller than Chelsea and taller than 2 of 1000 pillars. Julia is shorter than Linda. Find the correct sentence?
+
+a) Linda is shorter among them
+b) Chelsea is taller than Julia
+c) Chelsea is shorter than Julia
+d) Cannot determine who is taller among Chelsea and Julia
+
+32.Entry ticket to an exhibition ranges from 1p to 31p. You need to provide exact change at the counter. You have 31p coin. In how many parts will u divide 31p so that u will provide the exact change required and carry as less coins as possible?
+
+a)4 b)5 c)6 d)7
+
+33.Peter and Paul are two friends. The sum of their ages is 35 years. Peter is twice as old as Paul was when Peter was as old as Paul is now. What is the present age of Peter?
+
+a)8 b)20 c)16 d)15
+
+34. 20 men handshake with each other without repetition. What is the total number of handshakes made?
+
+a)190 b)210 c)150 d)250
+
+35. 10 people are there, they are shaking hands together, how many hand shakes possible, if they are in no pair of cyclic sequence.
+
+a)45 b)9 c)12 d)10
+
+36. If there are 2 wheelers and 4 wheelers parked in a school located at the heart of the city, find the number of 4 wheelers parked there if there were 20 two wheelers parked there
+
+a)48 b)50 c)52 d)64
+
+37. If there are 2 wheelers and 4 wheelers parked in a school located at the heart of the city, find the number of 4 wheelers parked there if there were 58 wheels are parked there
+
+a)10 b)33 c)22 d)none
+
+38.  A man whose age is 45 yrs has 3 sons named John, Jill, jack. He went to a park weekly twice. He loves his sons very much. On a certain day he found the shop keepers selling different things. An apple cost 1penny, 2chocalate costs 1penny & 3 bananas cost 1 penny. He has bought equal number of apple, chocolate & banana for each son. If the total amount he invest is 7 penny then how many he has bought from each piece for his son?
+
+a)1app,1cho,1 banana b)1 app,2cho,3 banana c)1app,2cho,1banana
+
+39. One person had three children. He had 7 pennies. Find the distribution of the fruits among the three children. A melon costs 1 penny, 2 oranges cost 1 penny and 3 grapes cost 1 penny
+
+a)2 melons, 1 orange, 1 grape b) 2 melons, 2 orange, 1 grape c) 1 melons, 2 orange, 1 grape.
+
+40. The age of the two friends were in the ration of 6:5.If the sum of their ages is 55.Then after how many years their ratio will become 8:7?
+
+a)11 b)7 c)10 d)12
